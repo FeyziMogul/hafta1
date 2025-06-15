@@ -1,0 +1,11 @@
+commit 5d83a960c0da33fbfb8f35317e949f6e7faa051a (HEAD -> main, origin/main, origin/HEAD)
+Author: FeyziMogul <feyzimgl@gmail.com>
+Date:   Sun Jun 15 16:36:38 2025 +0300
+
+    Update and rename README.md to h1ping.sh
+
+commit 19ef975a3c08889e6e622b5d735a6658147540f9
+Author: FeyziMogul <feyzimgl@gmail.com>
+Date:   Sun Jun 15 16:36:21 2025 +0300
+
+    Initial commit
